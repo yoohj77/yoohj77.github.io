@@ -1,3 +1,10 @@
+---
+title : ComputerScience_1
+date : 2022-07-27 00:00:00 -09:00
+categories : [computerscience, SUB_CATEGORIE]
+tags : [computerscience] #소문자만 가능
+---
+
 > # 컴퓨터 과학 :
   	
 ## 1. 릴레이(계전기)
