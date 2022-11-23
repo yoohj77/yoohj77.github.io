@@ -1,5 +1,5 @@
 ---
-title : ComputerScience_1
+title : 컴퓨터동작원리
 date : 2022-07-27 00:00:00 -09:00
 categories : [computerscience, SUB_CATEGORIE]
 tags : [computerscience] #소문자만 가능
