@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 과제 - 펑 리스트
+title: 연습 - 펑 리스트
 parent: JavaScript
 nav_order: 9
 ---
 
-# 과제: 펑 리스트
+# 연습: 펑 리스트
 
 공부한 내용들을 최대한 활용하여 다음의 펑 리스트를 구현하세요
 

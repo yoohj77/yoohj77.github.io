@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 과제 - 식당 운영
+title: 연습 - 식당 운영
 parent: JavaScript
 nav_order: 16
 ---
 
-# 과제: 식당 운영
+# 연습: 식당 운영
 
 공부한 내용을 최대한 참고하여 다음을 구현하세요
 
