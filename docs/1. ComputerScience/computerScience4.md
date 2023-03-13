@@ -2,8 +2,7 @@
 layout: default
 title: 네트워크
 nav_order: 5
-has_children: true
-permalink: /docs/ComputerScience
+parent: ComputerScience
 ---
 
 ## 네트워크

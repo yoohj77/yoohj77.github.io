@@ -2,8 +2,7 @@
 layout: default
 title: 운영체제란 무엇인가
 nav_order: 3
-has_children: true
-permalink: /docs/ComputerScience
+parent: ComputerScience
 ---
 
 # 1. 운영체제란 무엇인가?

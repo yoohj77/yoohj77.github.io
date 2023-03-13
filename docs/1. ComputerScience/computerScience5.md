@@ -2,8 +2,7 @@
 layout: default
 title: TCP란?
 nav_order: 6
-has_children: true
-permalink: /docs/ComputerScience
+parent: ComputerScience
 ---
 
 # TCP란?

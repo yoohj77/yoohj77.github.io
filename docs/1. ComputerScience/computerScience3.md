@@ -2,8 +2,7 @@
 layout: default
 title: 프로세스
 nav_order: 4
-has_children: true
-permalink: /docs/ComputerScience
+parent: ComputerScience
 ---
 
 ![](https://velog.velcdn.com/images/yoohj77/post/3cc33f93-48cb-4c61-95ac-c2ce8a278e0a/image.png)
