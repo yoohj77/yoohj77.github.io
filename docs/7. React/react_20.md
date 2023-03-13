@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 추가: Redux Toolkit
+title: Redux Toolkit
 parent: React
 nav_order: 20
 ---
