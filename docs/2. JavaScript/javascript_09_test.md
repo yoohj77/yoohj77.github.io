@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 과제: 펑 리스트
+title: 과제 - 펑 리스트
 parent: JavaScript
 nav_order: 9
 ---

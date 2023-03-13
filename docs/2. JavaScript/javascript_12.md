@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 과제: 에러 핸들링
+title: 과제 - 에러 핸들링
 parent: JavaScript
 nav_order: 12
 ---
