@@ -51,7 +51,7 @@ exclude:
 
 # Enable or disable the site search
 # Supports true (default) or false
-search_enabled: true
+search_enabled: false
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
@@ -71,13 +71,13 @@ search:
   tokenizer_separator: /[\s/]+/
   # Display the relative url in search results
   # Supports true (default) or false
-  rel_url: true
+  rel_url: false
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
 
 # For copy button on code
-enable_copy_code_button: true
+enable_copy_code_button: false
 
 # To disable support for mermaid diagrams (https://mermaid.js.org),
 # comment out the `mermaid` and `version` keys below
